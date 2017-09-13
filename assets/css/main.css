@@ -47,6 +47,29 @@
 		-webkit-text-size-adjust: none;
 	}
 
+#contactlist {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+
+#contactlist ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#contactlist li{
+    display: table-cell;
+}
+
+#contactlist a {
+    display: block;
+    border: 0px;
+    text-align: center;
+    margin: 0;
+}
+
 /* Box Model */
 
 	*, *:before, *:after {
