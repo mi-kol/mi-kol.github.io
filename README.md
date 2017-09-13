@@ -4,18 +4,12 @@ This is my personal GitHub page that highlights my abilities and past positions.
 
 ## Built With
 
-* [HTML5 UP](https://html5up.net/hyperspace) - Template based off of
+* [HTML5 UP](https://html5up.net/hyperspace) - Original template
 
 
 ## Authors
 
-* **Mikol Aspinwall** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **Mikol Aspinwall** - *Initial work*
 
 ## Acknowledgments
 
